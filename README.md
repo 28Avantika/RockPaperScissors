@@ -60,6 +60,26 @@ Alternatively, you can open it using **VS Code Live Server**:
 3. Right-click on `index.html` and select **"Open with Live Server"**.  
 
 ---
+## 🖼️ UI Preview
+
+### 🎮 Game View
+![RockPaperScissors](screenshots/ss3.png)
+
+### 🏆 Winning Screens of User and Computer while storing scores  
+![RockPaperScissors](screenshots/ss4.png)
+
+---
+![RockPaperScissors](screenshots/ss5.png)
+
+---
+![RockPaperScissors](screenshots/ss1.png)
+
+### 🔄 View
+![RockPaperScissors](screenshots/ss2.png)
+
+
+
+
 
 ## 🎨 JavaScript Features  
 🔹 **Event Handling** – Click events for user selection.  
